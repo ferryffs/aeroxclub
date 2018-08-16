@@ -1,0 +1,38 @@
+{
+  "name": "bn-tube.info",
+  "short_name": "bn-tube",
+  "start_url": "https://www.bn-tube.info/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#ff0000",
+  "description": "Informasi Berita Terkini Dari Dalam Dan Luar Negri.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-Kg67hTMJSC0/W3BDCY5VbAI/AAAAAAAAIQA/00qbjw44t2sZT6NjRasNhpGrzoapta_RACLcBGAs/s1600/icons8-play-button-32.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-J5Qg-SPblpQ/W3BC1XP4w4I/AAAAAAAAIP4/HJFT2QVJGsov3B2eOdy5Pow_P3TpfJMLACLcBGAs/s1600/icons8-play-button-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-cLmp6w6HfnQ/W3BCsKdkuqI/AAAAAAAAIPw/SA6cWPFgFoseKU53nBVEovdhOweJ4vD4ACLcBGAs/s1600/icons8-play-button-180.png",
+    "sizes": "180x180",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MfJ_utqRA6w/W3BCe75R9II/AAAAAAAAIPs/KPkRm9irzwsBMMWOZ6j2Kz3e84dfkhB2QCLcBGAs/s1600/icons8-play-button-144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-oySjtr4aF4Y/W2YBCwOPPsI/AAAAAAAAy1I/Pecs19yp62IpEMXyFBdlZEH1g_hGYyemQCLcBGAs/s168/fav-rajawalitv3.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-oySjtr4aF4Y/W2YBCwOPPsI/AAAAAAAAy1I/Pecs19yp62IpEMXyFBdlZEH1g_hGYyemQCLcBGAs/s192/fav-rajawalitv3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-oySjtr4aF4Y/W2YBCwOPPsI/AAAAAAAAy1I/Pecs19yp62IpEMXyFBdlZEH1g_hGYyemQCLcBGAs/s512/fav-rajawalitv3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
