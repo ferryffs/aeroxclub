@@ -1,0 +1,26 @@
+{
+  "name": "garudatv.id",
+  "short_name": "garudatv",
+  "start_url": "https://www.garudatv.id/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#ff0000",
+  "description": "TV Online Masa Kini.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-z-eXGWTnR5A/W3b2fobZbVI/AAAAAAAAIWU/AefGmpdke0sBOJ0isMlYXnsXE7ZyjcG4wCLcBGAs/s1600/icons8-daemon-tools-32.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6uaVK889CeY/W3b2p7RO5-I/AAAAAAAAIWY/0CZ0hvI_szsAhMwRucwb6SlMtC04F8VVQCPcBGAYYCw/s1600/icons8-daemon-tools-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-LEVt3agcJHs/W3b25vqmuFI/AAAAAAAAIWc/KgFHIBUGKmoTvLiKrsGc1x9Q8Esi8mK_wCLcBGAs/s1600/icons8-daemon-tools-180.png",
+    "sizes": "180x180",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-H419NgqJmoU/W3b3CODbWnI/AAAAAAAAIWk/hv05XcA4HxUaonOX-b7E953-YSv3xJAWACLcBGAs/s1600/icons8-daemon-tools-144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }]
+}
