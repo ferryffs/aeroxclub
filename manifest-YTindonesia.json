@@ -1,0 +1,26 @@
+{
+  "name": "youtubeindonesia.web.id",
+  "short_name": "youtubeindonesia",
+  "start_url": "https://www.youtubeindonesia.web.id/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#ff0000",
+  "description": "Situs Youtube Indonesia.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-s15JQRG0i64/W3g3UJE0TtI/AAAAAAAAIYg/HucXm92bDjY1TGbTX8L4o6wR-irzbKR6QCLcBGAs/s1600/icons8-play-button-32.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-391otUNZ-9w/W3g3j4pOJ-I/AAAAAAAAIYk/7EOrcIlzn-0e6r7EU4eUjgB9BfQPL_0PACLcBGAs/s1600/icons8-play-button-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-Uthf3ikoGgU/W3g3t8oXmnI/AAAAAAAAIYs/2L5QpWfcpS4RZuZsKYdfrwI1dr2uiEorwCLcBGAs/s1600/icons8-play-button-180.png",
+    "sizes": "180x180",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-1s9vy8sQPx8/W3g34oUHJ8I/AAAAAAAAIY0/AKmwi2b02Ag42x2Tfvn5u49bxObUB2C9wCLcBGAs/s1600/icons8-play-button-144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }]
+}
